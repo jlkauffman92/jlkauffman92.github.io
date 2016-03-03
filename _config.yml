@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jlkauffman92.github.io
+title: Jake's Fitness Blog
+email: jlkauffman92@gmail.com
+author: Jake Kauffman
+description: Jake Kauffman's fitness accountability blog. 
+paginate: 5
+google_analytics: 
